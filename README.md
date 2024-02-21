@@ -20,15 +20,15 @@ https://www.tutorialspoint.com/angular_material7/angular_material7_sidenav.htm
 }
 
  mat-sidenav-container class = "tp-container">
-   mat-sidenav mode = "side" opened>
-      section class = "tp-section">
+  / mat-sidenav mode = "side" opened>
+     / section class = "tp-section">
          <span>File</span>
-      /section>
-      section class = "tp-section">
-         span>Edit</span>
-      /section>
-   /mat-sidenav>
-   mat-sidenav-content>Main content</mat-sidenav-content>
+    //  /section>
+   /   section class = "tp-section">
+    /     span>Edit</span>
+   //   /section>
+ //  /mat-sidenav>
+ /  mat-sidenav-content>Main content</mat-sidenav-content>
    
-</mat-sidenav-container>
+// /mat-sidenav-container>
 
