@@ -19,7 +19,7 @@ https://www.tutorialspoint.com/angular_material7/angular_material7_sidenav.htm
    width:100px;   
 }
 
-<mat-sidenav-container class = "tp-container">
+.{ <mat-sidenav-container class = "tp-container">
    <mat-sidenav mode = "side" opened>
       <section class = "tp-section">
          <span>File</span>
@@ -29,5 +29,6 @@ https://www.tutorialspoint.com/angular_material7/angular_material7_sidenav.htm
       </section>
    </mat-sidenav>
    <mat-sidenav-content>Main content</mat-sidenav-content>
+   }
 </mat-sidenav-container>
 
